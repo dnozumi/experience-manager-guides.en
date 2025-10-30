@@ -1,5 +1,5 @@
 ---
-title: Configure Other Settings
+title:  Configure Snippet, Variable, and Condition Settings (for Administrators)
 description: Learn about how to configure folders, assets folders, variables, snippets, conditions, and more for different departments in Experience Manager Guides.
 feature: Authoring
 role: Admin
@@ -7,6 +7,7 @@ level: Experienced
 exl-id: 15a0cd40-45be-4631-8d60-4a9474bc431c
 ---
 # Configure other settings 
+Creating and Managing Snippets in AEM Guides
 
 As an Administrator, you can also configure the following settings for the Learning course Authors and Publishers: 
 
